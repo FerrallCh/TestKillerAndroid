@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestKAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="administratorButtonText">Administrator</string>
+    <string name="userButtonText">User</string>
+    <string name="welcomeText">Welcome!</string>
+    <string name="title_activity_admin_activity_one">AdminActivityOne</string>
+    <string name="title_activity_task_list">TaskList</string>
+</resources>
